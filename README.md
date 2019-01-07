@@ -1,2 +1,2 @@
 # Hello-World
-Test Description
+Hello There! I'm just starting to use GitHub!
